@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Cytoscape-API-Compatibility: 3.0
+Cytoscape-App: PluginWrapper
+Cytoscape-App-Name: GASOLINE
+Cytoscape-App-Version: 2.0
